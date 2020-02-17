@@ -14,7 +14,10 @@ module.exports = {
         src: 'img/logo.svg',
       },
       links: [
-        {to: 'docs/doc1', label: 'Docs', position: 'left'},
+        {to: 'docs/healthcare', label: 'Healthcare', position: 'left'},
+        {to: 'docs/insurance', label: 'Insurance', position: 'left'},
+        {to: 'docs/retirement', label: 'Retirement', position: 'left'},
+        {to: 'docs/taxes', label: 'Taxes', position: 'left'},
         {to: 'blog', label: 'Blog', position: 'left'},
         {
           href: 'https://github.com/facebook/docusaurus',

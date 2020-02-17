@@ -1,3 +1,8 @@
+---
+id: retirement
+title: retirement
+---
+
 # Retirement
 
 Probably a better question that "What is retirement?" is "Why is retirement?".  Ok, that doesn't make any sense, but I'm going with it anyway.  So, why do you want to retire, and what does it mean?

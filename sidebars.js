@@ -7,6 +7,10 @@
 
 module.exports = {
   someSidebar: {
+    Healthcare: ['healthcare'],
+    Insurance: ['insurance'],
+    Retirement: ['retirement'],
+    Taxes: ['taxes'],
     Docusaurus: ['doc1', 'doc2', 'doc3'],
     Features: ['mdx'],
   },
